@@ -115,6 +115,8 @@ Python · Test Automation · Web Testing
 
 - GitHub: "ikqavscode-afk" (https://github.com/ikqavscode-afk)
 - Telegram: "@hugoray" (https://t.me/hugoray)
+- Email: ikqa2026@gmail.com
+- TG: @shiftaeon
 
 ---
 
