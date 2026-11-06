@@ -54,22 +54,7 @@ Python · Test Automation · Web Testing
 
 🔗 "Открыть проект Sprint_6" (https://github.com/ikqavscode-afk/Sprint_6)
 
-2. UI-автотесты Stellar Burgers
-
-Стек: Python · pytest · Selenium
-
-Проект автоматизации тестирования учебного сервиса Stellar Burgers.
-
-Основные сценарии:
-
-- Регистрация пользователя.
-- Авторизация.
-- Переход в личный кабинет.
-- Навигация по конструктору.
-
-🔗 "Открыть проект Sprint_5" (https://github.com/HugoxRay/Sprint_5)
-
-3. Flask Diary — веб-приложение
+2. Flask Diary — веб-приложение
 
 Стек: Python · Flask · SQLite · Flask-SQLAlchemy · Flask-Login · pytest
 
@@ -85,7 +70,7 @@ Python · Test Automation · Web Testing
 
 🔗 "Открыть проект Flask Diary" (https://github.com/ikqavscode-afk/flask)
 
-4. Flask Blog — веб-приложение
+3. Flask Blog — веб-приложение
 
 Стек: Python · Flask · SQLAlchemy · Flask-Migrate · SQLite
 
@@ -100,7 +85,7 @@ Python · Test Automation · Web Testing
 
 🔗 "Открыть проект Flask Blog" (https://github.com/ikqavscode-afk/dz_12_flask_blog)
 
-5. Алгоритмы на Python
+4. Алгоритмы на Python
 
 Практические задания по программированию и алгоритмам.
 
