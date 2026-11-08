@@ -1,4 +1,4 @@
-# 👋 Привет! Я начинающий QA Engineer
+# 👋 Привет! QA Engineer
 
 **Python · Test Automation · Web Testing**
 
